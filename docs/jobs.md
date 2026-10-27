@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. SF. LAZĂR, NR.37, SPAŢIUL A, ET.5 |
 | Website | [https://www.nuvei.com](https://www.nuvei.com) |
 | Careers | [https://apply.workable.com/nuvei/](https://apply.workable.com/nuvei/) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
 ## Current Job Listings (4)
 
-_Generated: 2026-10-26T12:45:27.867Z_
+_Generated: 2026-10-27T11:59:55.071Z_
 
 ### Business Development Manager iGaming
 
