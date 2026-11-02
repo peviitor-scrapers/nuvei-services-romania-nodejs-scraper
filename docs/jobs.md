@@ -10,18 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. SF. LAZĂR, NR.37, SPAŢIUL A, ET.5 |
 | Website | [https://www.nuvei.com](https://www.nuvei.com) |
 | Careers | [https://apply.workable.com/nuvei/](https://apply.workable.com/nuvei/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (4)
+## Current Job Listings (3)
 
-_Generated: 2026-11-01T13:09:06.470Z_
-
-### Business Development Manager iGaming
-
-- **URL:** [https://apply.workable.com/j/425FCF4AC1](https://apply.workable.com/j/425FCF4AC1)
-- **Work Mode:** on-site
-- **Location:** Iași
-- **Status:** scraped
+_Generated: 2026-11-02T15:32:52.596Z_
 
 ### Contract Specialist
 
