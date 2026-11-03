@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. SF. LAZĂR, NR.37, SPAŢIUL A, ET.5 |
 | Website | [https://www.nuvei.com](https://www.nuvei.com) |
 | Careers | [https://apply.workable.com/nuvei/](https://apply.workable.com/nuvei/) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (3)
+## Current Job Listings (2)
 
-_Generated: 2026-11-02T15:32:52.596Z_
+_Generated: 2026-11-03T14:00:59.773Z_
 
 ### Contract Specialist
 
@@ -26,13 +26,6 @@ _Generated: 2026-11-02T15:32:52.596Z_
 ### Senior Contract Specialist
 
 - **URL:** [https://apply.workable.com/j/595D4E2A81](https://apply.workable.com/j/595D4E2A81)
-- **Work Mode:** on-site
-- **Location:** Iași
-- **Status:** scraped
-
-### Senior Power BI Analyst
-
-- **URL:** [https://apply.workable.com/j/52667244EC](https://apply.workable.com/j/52667244EC)
 - **Work Mode:** on-site
 - **Location:** Iași
 - **Status:** scraped
