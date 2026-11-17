@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. SF. LAZĂR, NR.37, SPAŢIUL A, ET.5 |
 | Website | [https://www.nuvei.com](https://www.nuvei.com) |
 | Careers | [https://apply.workable.com/nuvei/](https://apply.workable.com/nuvei/) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-16T15:32:28.499Z_
+_Generated: 2026-11-17T15:52:08.083Z_
 
 ### Contract Specialist
 
