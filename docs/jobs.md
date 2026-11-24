@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. SF. LAZĂR, NR.37, SPAŢIUL A, ET.5 |
 | Website | [https://www.nuvei.com](https://www.nuvei.com) |
 | Careers | [https://apply.workable.com/nuvei/](https://apply.workable.com/nuvei/) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (3)
 
-_Generated: 2026-11-23T17:55:43.647Z_
+_Generated: 2026-11-24T17:27:48.225Z_
 
 ### Contract Specialist
 
@@ -23,7 +23,7 @@ _Generated: 2026-11-23T17:55:43.647Z_
 - **Location:** Iași
 - **Status:** scraped
 
-### DBA Team Leader
+### DBA Team Lead
 
 - **URL:** [https://apply.workable.com/j/993CE1A074](https://apply.workable.com/j/993CE1A074)
 - **Work Mode:** on-site
